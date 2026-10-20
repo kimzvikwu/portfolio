@@ -4,17 +4,17 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
 - [VANQUISH](#vanquish)
 
 - [Case Studies](#case-studies)
--- [Restructuring a stalled Azure migration so engineers could build](#Restructuring a stalled Azure migration so engineers could build)
--- [Making the case for a centralized ZooKeeper team before the outages made it for me](#Making the case for a centralized ZooKeeper team before the outages made it for me)
--- [Tracing a silent TLS handshake failure across a global WAN](#Tracing a silent TLS handshake failure across a global WAN)
--- [Replacing four days of manual release testing with one dashboard of truth](#Replacing four days of manual release testing with one dashboard of truth)
--- [A project retrospective people trusted enough to be honest in](#A project retrospective people trusted enough to be honest in)
+    - [Restructuring a stalled Azure migration so engineers could build](#federal-cloud)
+    - [Making the case for a centralized ZooKeeper team before the outages made it for me](#distributed-db)
+    - [Tracing a silent TLS handshake failure across a global WAN](#tls)
+    - [Replacing four days of manual release testing with one dashboard of truth](#release)
+    - [A project retrospective people trusted enough to be honest in](#retrospective)
 
 - [Talks](#talks)
--- [One identity model for every cloud, vendor and customer site](#One identity model for every cloud, vendor and customer site)
--- [A multi-tenant clickstream pipeline from global apps to trusted reports](#A multi-tenant clickstream pipeline from global apps to trusted reports)
--- [Engineering excellence and digital instrumentation](#Engineering excellence and digital instrumentation)
--- [Putting the “Sec” into DevOps](#Putting the “Sec” into DevOps)
+    - [One identity model for every cloud, vendor and customer site](#identity)
+    - [A multi-tenant clickstream pipeline from global apps to trusted reports](#clickstream)
+    - [Engineering excellence and digital instrumentation](#excellence)
+    - [Putting the “Sec” into DevOps](#devsecops)
 
 - [Contact](#contact)
 
