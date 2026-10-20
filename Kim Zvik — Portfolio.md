@@ -434,7 +434,7 @@ Slides
 
 ### The problem
 
-GPU capacity is scarce and expensive, and high-performance computing hardware even more so, with procurement cycles measured in years. When Kubernetes workloads share NVIDIA Ampere or Hopper GPUs, every wasted cycle costs real money, and Hopper benchmarks up to 4.5 times faster than Ampere, so a poorly tuned cluster gives back much of what the hardware paid for.
+GPU capacity is scarce and expensive, and high-performance computing hardware even more so, with procurement cycles measured in years. When Kubernetes workloads share NVIDIA Ampere or Hopper GPUs, every wasted cycle costs real money, and Ampere benchmarks up to 4.5 times faster than Hopper, so a poorly tuned cluster gives back much of what the hardware paid for.
 
 Kubernetes tuning comes down to the tradeoff between requests and limits for memory, CPU and hugepages. Set them too loose and you waste capacity; set them too tight and workloads thrash.
 
