@@ -75,18 +75,18 @@
 
 ---
 
-## 9. OWASP — Top 10 Security Vulnerabilities
+## 9. OWASP — Top 10 Security Vulnerabilities (2017)
 
 1. Injection
-2. Broken Authentication and Session Management
-3. Cross-Site Scripting
-4. Insecure Direct Object References
-5. Security Misconfiguration
-6. Sensitive Data Exposure
-7. Missing Function Level Access Control
-8. Cross-Site Request Forgery
+2. Broken Authentication
+3. Sensitive Data Exposure
+4. XML External Entities (XXE)
+5. Broken Access Control
+6. Security Misconfiguration
+7. Cross-Site Scripting (XSS)
+8. Insecure Deserialization
 9. Using Components with Known Vulnerabilities
-10. Unvalidated Redirects and Forwards
+10. Insufficient Logging & Monitoring
 
 ---
 
