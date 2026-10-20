@@ -267,7 +267,7 @@ HIPAA, SOC 2
 
 Slides
 
-[View the deck](https://docs.google.com/presentation/d/1gbxDsSrY9dr6J3P3nqCUNzA3IK__2pNJgjozK6qFMpA/edit)
+[View the deck](./agnostic-identity-management/README.md)
 
 ### The problem
 
@@ -306,6 +306,10 @@ eazyBI, Adobe Analysis Workspace, Domo; Grafana, Prometheus, Splunk
 Compliance
 
 GDPR
+
+Slides
+
+[View the deck](./multi-tenant-clickstream-design/README.md)
 
 ### Requirements
 
@@ -346,7 +350,7 @@ Interactive talk with live “find the vulnerability” puzzles
 
 Slides
 
-[View the deck](https://docs.google.com/presentation/d/1oJMQob46Z3iUfo73djYbCY-WctAQdLvoizBvJNdKUcQ/edit?usp=sharing)
+[View the deck](./digital-instrumentation/README.md)
 
 ### The argument
 
@@ -430,7 +434,7 @@ eBPF Summit 2023; Brendan Gregg, *Systems Performance*
 
 Slides
 
-[View the deck](https://docs.google.com/presentation/d/1uJEh72nyAYrJEYLx643Ojp92K-mPTrtdczWGb4sZnHQ/edit)
+[View the deck](./ebpf-cluster-use/README.md)
 
 ### The problem
 
