@@ -90,6 +90,8 @@ Early 2020s, via a federal systems integrator
 
 # Case Studies
 
+## federal-cloud
+
 ## Restructuring a stalled Azure migration so engineers could build
 
 Scale
@@ -126,6 +128,8 @@ The agency agreed to trial the structure, and it was still in place a year later
 
 **Global SaaS company**Principal Engineer, Core Infrastructure\
 Late 2010s
+
+## distributed-db
 
 ## Making the case for a centralized ZooKeeper team before the outages made it for me
 
@@ -165,6 +169,8 @@ Later that year, a split-brain incident hit our production pilot, and a race con
 **Global credit ratings and analytics firm**Senior DevOps Engineer\
 Mid 2010s
 
+## tls
+
 ## Tracing a silent TLS handshake failure across a global WAN
 
 Systems
@@ -201,6 +207,8 @@ Every Atlassian site moved to HTTPS, and the security team started using the pla
 
 **Global money transfer company**Head of Quality and Release Engineering\
 Early 2010s
+
+## release
 
 ## Replacing four days of manual release testing with one dashboard of truth
 
@@ -239,6 +247,8 @@ I designed a Jira dashboard with three levels of detail that aggregated manual, 
 **Investment analytics firm**Senior Program Manager\
 Early 2000s
 
+## retrospective
+
 ## A project retrospective people trusted enough to be honest in
 
 Product
@@ -271,6 +281,8 @@ With the CTO’s approval, the report was released internally and spread across 
 
 **Healthcare AI and data platform**Security architecture engagement\
 Early 2020s, independent consulting
+
+## identity 
 
 ## One identity model for every cloud, vendor and customer site
 
@@ -313,6 +325,8 @@ To align operations with the strategy, I proposed shifting security left: Secure
 
 **Global streaming media company**Infrastructure architecture design\
 Early 2020s
+
+## clickstream
 
 ## A multi-tenant clickstream pipeline from global apps to trusted reports
 
@@ -359,6 +373,8 @@ I compared options at three price points. For BI: eazyBI as a low-cost Jira plug
 
 **Talk**Late 2010s
 
+## devsecops
+
 ## Putting the “Sec” into DevOps
 
 Topics
@@ -397,6 +413,8 @@ WHERE ((Username='1' or '1' = '1'))/*') AND (Password=MD5('$password')))
 Other puzzles were lighter: which dog breed is tied to an SSL attack (the poodle, for POODLE), and which utensil protects sensitive data (salt, for password hashing). The goal was for engineers to leave recognizing these patterns in their own code reviews.
 
 **Talk**Early 2020s
+
+## excellence
 
 ## Engineering excellence and digital instrumentation
 
