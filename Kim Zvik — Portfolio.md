@@ -1,11 +1,13 @@
 **Kim Zvik**
 
 - [VANQUISH](#vanquish)
-- [Case studies](#case-studies)
+- [Case Studies](#case-studies)
 - [Talks](#talks)
 - [Contact](#contact)
 
-# Kim Zvik
+# Contact
+
+## Kim Zvik
 
 Cloud and infrastructure security leader. 15+ years turning operational gaps into programs that hold up under audit, outage and scale.
 
@@ -26,6 +28,8 @@ My work, logged the way I’d log a finding: what was wrong, and how it got clos
 | KZ-05 | Early 2000s | [Investment analytics firm](#retrospective) | A late flagship web launch with no shared account of why it ran late | Resolved |
 | KZ-06 | Early 2020s | [Healthcare AI platform](#identity) | Sensitive health data across many remotely managed cloud deployments, with no single identity model | Designed |
 | KZ-07 | Early 2020s | [Streaming media company](#clickstream) | Clickstream data from many regions and tenants needed one path to BI that could hold up to financial reporting | Designed |
+
+# VANQUISH
 
 **VANQUISH**Independent project, 2026
 
@@ -70,6 +74,8 @@ VANQUISH also includes a DLP sandbox component. I’ve applied the same agent de
 
 **U.S. federal banking agency**Senior Director, DevOps\
 Early 2020s, via a federal systems integrator
+
+# Case Studies
 
 ## Restructuring a stalled Azure migration so engineers could build
 
@@ -247,6 +253,8 @@ The culture was consensus-driven and analytical, and people were slow to speak u
 ### Outcome
 
 With the CTO’s approval, the report was released internally and spread across the company overnight. A year later, a former architect told me that report had made me a hero to the team.
+
+# Talks
 
 **Healthcare AI and data platform**Security architecture engagement\
 Early 2020s, independent consulting
