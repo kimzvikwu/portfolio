@@ -371,7 +371,7 @@ The design accounts for GDPR, high availability, synthetic data for testing, mod
 
 I compared options at three price points. For BI: eazyBI as a low-cost Jira plugin, Domo in the middle as a challenger on the Gartner Magic Quadrant, and Adobe Analysis Workspace (Omniture) at the top end. For logging: Grafana or Prometheus at low cost, and Splunk at the top end.
 
-**Talk**Late 2010s
+**Talk** Late 2010s
 
 ## devsecops
 
@@ -387,7 +387,7 @@ Interactive talk with live “find the vulnerability” puzzles
 
 Slides
 
-[View the deck](./digital-instrumentation/README.md)
+[View the deck](./putting-sec-into-devops/README.md)
 
 ### The argument
 
