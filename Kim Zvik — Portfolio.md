@@ -430,6 +430,10 @@ Panels
 
 ThriveWise, on the Colonial Pipeline ransomware attack; Teguas, on the SVB failure
 
+Slides
+
+[View the deck](./digital-instrumentation/README.md)
+
 ### Leadership philosophy
 
 I lead as a servant leader: goal-oriented, focused on enablement and autonomy, reusing what works and improving what doesn’t. Following means listening, and leading means doing the work alongside the team. I’ve built and led teams of 30, 35 and 50, and a matrixed organization of 150.
