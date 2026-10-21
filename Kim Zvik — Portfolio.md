@@ -16,6 +16,9 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
     - [Engineering excellence and digital instrumentation](#excellence)
     - [Putting the “Sec” into DevOps](#devsecops)
 
+- [Patents Filed](#patents)
+    - [Infrastructure Substituion in a Fail Over Scenario](#Infrastructure_Substitution_Linear_Model.md)
+
 - [Contact](#contact)
 
 # Contact
@@ -500,6 +503,11 @@ The extended Berkeley Packet Filter lets you observe the system from inside the 
 The same kernel access that makes eBPF powerful makes it a target. The talk covers malicious kernel requests, LD_PRELOAD injection, and time-of-check to time-of-use (TOCTTOU) races against ptrace, seccomp and eBPF probes on syscall entry, along with eBPF LSM for security monitoring on stable kernels.
 
 My recommended mitigations: use gVisor to trace a workload’s kernel calls, then lock those calls down with seccomp under the runsc runtime; run non-default workloads under a separate Kubernetes RuntimeClass; and terminate violating processes with an asynchronous SIGKILL.
+
+# patents
+# Patents Filed
+
+[Infrastructure Substition in a Failover Scenario](#Infrastructure_Substitution_Linear_Model)
 
 ## Get in touch
 
