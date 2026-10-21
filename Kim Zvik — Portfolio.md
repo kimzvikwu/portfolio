@@ -18,6 +18,7 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
 
 - [Patents Filed](#patents)
     - [Infrastructure Substituion in a Fail Over Scenario](./Infrastructure_Substitution_Linear_Model.md)
+    - [A Formula to Calculate Cortex AI Agent Trustworthiness](./A_Formula_to_Calculate_Agent_Trustworthiness_in_Cortex_AI.md)
 
 - [Contact](#contact)
 
@@ -508,6 +509,8 @@ My recommended mitigations: use gVisor to trace a workload’s kernel calls, the
 # Patents Filed
 
 [Infrastructure Substition in a Failover Scenario](./Infrastructure_Substitution_Linear_Model)
+
+[A Formula to Calculate Agent Trustworthiness in Cortext AI](./A_Formula_to_Calculate_Agent_Trustworthiness_in_Cortex_AI.md)
 
 ## Get in touch
 
