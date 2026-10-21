@@ -17,7 +17,7 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
     - [Putting the “Sec” into DevOps](#devsecops)
 
 - [Patents Filed](#patents)
-    - [Infrastructure Substituion in a Fail Over Scenario](#Infrastructure_Substitution_Linear_Model.md)
+    - [Infrastructure Substituion in a Fail Over Scenario](./Infrastructure_Substitution_Linear_Model.md)
 
 - [Contact](#contact)
 
@@ -507,7 +507,7 @@ My recommended mitigations: use gVisor to trace a workload’s kernel calls, the
 # patents
 # Patents Filed
 
-[Infrastructure Substition in a Failover Scenario](#Infrastructure_Substitution_Linear_Model)
+[Infrastructure Substition in a Failover Scenario](./Infrastructure_Substitution_Linear_Model)
 
 ## Get in touch
 
