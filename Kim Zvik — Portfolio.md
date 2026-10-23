@@ -18,7 +18,7 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
 
 - [Patents Filed](#patents)
     - [Infrastructure Substituion in a Fail Over Scenario](./Infrastructure_Substitution_Linear_Model.md)
-    - [A Formula to Calculate Cortex AI Agent Trustworthiness](./A_Formula_to_Calculate_Agent_Trustworthiness_in_Cortex_AI.md)
+    - [A Formula to Calculate Cortex XSIAM Agent Trustworthiness](./A_Formula_to_Calculate_Agent_Trustworthiness_in_Cortex_XSIAM.md)
 
 - [Contact](#contact)
 
