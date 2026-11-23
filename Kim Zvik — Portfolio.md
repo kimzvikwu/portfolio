@@ -4,7 +4,7 @@ Centralized vulnerability management and POA&M automation for FedRAMP environmen
 - [VANQUISH](#vanquish)
 
 - [Case Studies](#case-studies)
-    - [Moving from FedRAMP High to IL5/6 and Air Gapped](https://github.com/kimzvikwu/tacticaledge)
+    - [Moving from FedRAMP High to IL5/6 and Air Gapped](https://github.com/kimzvikwu/tacticaledge/il5-security-presentation.md)
     - [Restructuring a stalled Azure migration so engineers could build](#federal-cloud)
     - [Making the case for a centralized ZooKeeper team before the outages made it for me](#distributed-db)
     - [Tracing a silent TLS handshake failure across a global WAN](#tls)
