@@ -9,6 +9,9 @@ Known Exploited Vulnerability (KEV) with Replit
 Cloudflare Vulnerability Triage
 - [AI based triaged based on Cloudflare](https://github.com/kimzvikwu/cloudflarezero/blob/main/README.md)
 
+Vulnerability Consumer Score
+- [Score publicly traded companies on their vulnerabilities as a proportion of employees](https://github.com/kimzvikwu/vuln-consumer-score/blob/main/README.md)
+
 Presentations and Written Work
 - [Case Studies](#case-studies)
     - [Moving from FedRAMP High to IL5/6 and Air Gapped](https://github.com/kimzvikwu/tacticaledge/il5-security-presentation.md)
