@@ -3,6 +3,12 @@
 Centralized vulnerability management and POA&M automation for FedRAMP environments
 - [VANQUISH](#vanquish)
 
+Known Exploited Vulnerability (KEV) with Replit
+- [Replit KEV](https://github.com/kimzvikwu/replit-kev/README.md)
+
+Cloudflare Vulnerability Triage
+- [AI based triaged based on Cloudflare](https://github.com/kimzvikwu/cloudflarezero/README.md)
+
 - [Case Studies](#case-studies)
     - [Moving from FedRAMP High to IL5/6 and Air Gapped](https://github.com/kimzvikwu/tacticaledge/il5-security-presentation.md)
     - [Restructuring a stalled Azure migration so engineers could build](#federal-cloud)
